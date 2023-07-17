@@ -26,6 +26,8 @@
 ### 参考資料
 
 構造計画研究所(https://www.sbd.jp/guide/simulation/)<br>
+
 weblio辞書「コンピューターシミュレーションとは」(https://www.weblio.jp/content/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3#:~:text=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%95%E3%82%89%E3%81%8B%E3%81%AE,%E6%A8%A1%E6%93%AC%E7%9A%84%E3%81%AB%E8%A8%88%E7%AE%97%E3%81%99%E3%82%8B%E3%80%82)<br>
+
 fujiitsu.com(https://www.fujitsu.com/jp/about/businesspolicy/tech/k/why/simulation/#:~:text=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%94%A8%E3%81%84%E3%82%8C%E3%81%B0,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E3%80%82)
 
